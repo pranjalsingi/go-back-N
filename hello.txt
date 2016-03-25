@@ -1,0 +1,6 @@
+You are reading the contents of this file
+
+If you enter this file name at the time of running client, it will copy the content from this file to out.txt
+
+Hope it happens:)
+
